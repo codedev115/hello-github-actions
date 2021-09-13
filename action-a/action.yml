@@ -1,10 +1,10 @@
 3.	name: "Hello Actions"
 4.	description: "Greet someone"
-5.	author: "codedev115@github.com"
+5.	author: "octocat@github.com"
 6.	
 7.	inputs:
 8.	  MY_NAME:
-9.	    description: "Suparna"
+9.	    description: "Who to greet"
 10.	    required: true
 11.	    default: "World"
 12.	
